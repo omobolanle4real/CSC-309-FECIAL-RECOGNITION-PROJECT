@@ -1,4 +1,3 @@
-
 # CSC 309 - Facial Recognition System
 
 ## 1. Project Description
@@ -54,13 +53,19 @@ Incorrect predictions: 3
 - Actual versus Predicted Images
 
 ## 8. Project Files
-- facial_recognition.ipynb
-- requirements.txt
-- CSC309_Facial_Recognition_Model.pkl
-- classification_report.txt
+The repository contains the following files:
+
+CSC_309_FECIAL_RECOGNITION_PROJECT.ipynb – Main Python notebook containing the project code.
+
+requirements.txt – Required Python libraries.
+
+CSC309_Facial_Recognition_Model.pkl – Saved trained SVM model.
+
+classification_report (1).txt – Model evaluation report.
+
+CSC309_Facial_Dataset.zip – Dataset containing 200 facial images.
 
 ## 9. How to Run the Project
-
 Install the required libraries using:
 
 pip install -r requirements.txt
